@@ -1,10 +1,10 @@
 # BlueBOX Arduino Logic
 
 # O que é BlueBOX?
-O BlueBOX é uma tecnologia assistiva com foco na aprendizagem do Braille que faz a conversão de textos em "tinta" para o Braille.
+BlueBOX é uma tecnologia assistiva com foco na aprendizagem do Braille que faz a conversão de textos em "tinta" para o Braille.
 
 # Como a BlueBOX se comunica?
-O BlueBOX se comunica através do protocolo de comunicação sem fio Bluetooth, que tem como requisito a recepção das letras em Braille/Binário (conforme coversão [BlueBOX Letter Enum](https://github.com/meyer20/BlueBOX/blob/master/app/src/main/java/com/bluebox/LetterEnum.java)).
+A BlueBOX se comunica através do protocolo de comunicação sem fio Bluetooth, que tem como requisito a recepção das letras em Braille/Binário (conforme coversão [BlueBOX Letter Enum](https://github.com/meyer20/BlueBOX/blob/master/app/src/main/java/com/bluebox/LetterEnum.java)).
 
 # Componentes básicos para a contrução de uma BlueBOX
 - 1 x Arduino UNO
