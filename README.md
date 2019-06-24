@@ -14,6 +14,6 @@ A BlueBOX se comunica através do protocolo de comunicação sem fio Bluetooth, 
 - Cabos de conexão
 
 # Esquema de conexões lógicas do dispositivo BlueBOX
-![BlueBOX logic connections](https://lh3.googleusercontent.com/5l-8V-BhuDcIxJjYfNw791Fc6Aer8HBVfvPcbhy7FWyVR9-QXnk8_Quzk6x8W13cE1E-x_qt2NpsXhZglKQh=w1366-h657-rw)
+![BlueBOX logic connections](https://i.imgur.com/7tLPFHh.png)
 
 # [Aplicação BlueBOX Android](https://github.com/meyer20/BlueBOX)
